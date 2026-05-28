@@ -28,6 +28,7 @@ class ImageEditor {
         this.skillPath = './imgs/skills/';
 
         this.sceneFiles = [
+            '001-left_head.png',
             '002-right_head.png',
             "003-horntail.png",
             '004-horntail-with-mob.png'
